@@ -5,10 +5,13 @@ We will predict forest fire,in this we use data of the north portugal. You can u
    This is a very difficult regression task. It can be used to test regression methods. Also,
    it could be used to test outlier detection methods, since it is not clear how many outliers
    are there. Yet, the number of examples of fires with a large burned area is very small.
+
 Number of Instances: 517 
+
 Number of Attributes: 12 + output attribute
    Note: several of the attributes may be correlated, thus it makes sense to apply some sort of
    feature selection.
+
 Attribute information:
    For more information, read [Cortez and Morais, 2007].
 
