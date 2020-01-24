@@ -16,7 +16,9 @@ Attribute information:
    For more information, read [Cortez and Morais, 2007].
    
    ![](Images/Capture.PNG)
+   
    (http://www3.dsi.uminho.pt/pcortez/fires.pdf)
+   
    1. X - x-axis spatial coordinate within the Montesinho park map: 1 to 9
    2. Y - y-axis spatial coordinate within the Montesinho park map: 2 to 9
    3. month - month of the year: "jan" to "dec" 
