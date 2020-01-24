@@ -1,7 +1,7 @@
 # Forcast Forest Fire
 We will predict forest fire,in this we use data of the north portugal. You can use this machine learning model with any other data also. The data should be similar as the uploded data in the Data.
 
-# Information About Data
+## Information About Data
    This is a very difficult regression task. It can be used to test regression methods. Also,
    it could be used to test outlier detection methods, since it is not clear how many outliers
    are there. Yet, the number of examples of fires with a large burned area is very small.
